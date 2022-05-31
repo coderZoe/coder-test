@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Plugin-Package-Type: dev
+Plugin-Meta-Path: D:\work\test\coder-test\plugin-test\target\META-INF\
+ PLUGIN.META
+

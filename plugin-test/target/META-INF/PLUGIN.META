@@ -1,0 +1,7 @@
+#plugin meta configuration
+#Tue May 31 17:41:12 CST 2022
+plugin.system.path=D\:\\work\\test\\coder-test\\plugin-test\\target\\classes
+plugin.bootstrapClass=com.main.plugin.Plugins
+plugin.system.resourcesConfig=D\:\\work\\test\\coder-test\\plugin-test\\target\\META-INF\\RESOURCES.CONF
+plugin.version=1.0.0-SNAPSHOT
+plugin.id=plugin-test

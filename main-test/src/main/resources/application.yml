@@ -1,0 +1,9 @@
+server:
+  port: 8088
+
+
+plugin:
+  runMode: dev
+  mainPackage: com.main
+  pluginPath:
+    - D://work//test//plugins
